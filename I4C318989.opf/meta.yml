@@ -1,0 +1,18 @@
+id: I4C318989
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:52.816440
+last_modified: 2023-01-04 11:29:52.816452
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  E229:
+    title: Daily Practice of Vajrakīla
+    base_file: E229.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
